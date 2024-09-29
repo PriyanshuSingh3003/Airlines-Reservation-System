@@ -23,7 +23,7 @@ CREATE TABLE `flightdetails_tb` (
 -- Dumping data for table `flightdetails_tb`
 
 INSERT INTO `flightdetails_tb` (`f_id`, `f_no`, `f_name`, `f_from`, `f_destination`, `f_time`, `f_amount`, `f_leave`, `f_arrive`, `f_available`) VALUES
-(1, 'PKR-108', 'JET AIRLINES', 'Lahore', 'Karachi', '1:30PM', '14000', '2:00 PM', '1:00 AM', 'A');
+(1, , 'AI 814', 'AIR INDIA', 'DELHI', 'BANGALORE', '22:30PM', '6801', '12:45 AM', '1:00 AM', 'A');
 
 
 -- Table structure for table `userreservation_tb`
